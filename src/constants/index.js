@@ -35,20 +35,21 @@ export const EXPERIENCES = [
     description: `Taught AP courses, developed materials, and guided 30 students in university applications.`,
     technologies: ["AP Computer Science", "AP Statistics", "AP Calculus", "AP Physics"]
   },
-  {
-    year: "May 2019 – Sept 2019",
-    role: "Network Technician (Internship)",
-    company: "LG U+, Suwon, South Korea",
-    description: `Installed LAN networks and assisted in troubleshooting for medium to large-sized companies.`,
-    technologies: ["LAN Networks", "Network Troubleshooting"]
-  },
+  
   {
     year: "May 2017 – March 2019",
     role: "Student Instructor",
     company: "Green River College, Auburn, Washington",
     description: `Developed instructional materials for Calculus, designed supplementary resources, and facilitated lectures.`,
     technologies: ["Pre-Calculus", "Calculus", "Instructional Design"]
-  }
+  },
+  {
+    year: "June 2016 – Sept 2016",
+    role: "Network Technician (Internship)",
+    company: "LG U+, Suwon, South Korea",
+    description: `Installed LAN networks and assisted in troubleshooting for medium to large-sized companies.`,
+    technologies: ["LAN Networks", "Network Troubleshooting"]
+  },
 ];
 
 
