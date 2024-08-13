@@ -15,19 +15,20 @@ export const ABOUT_TEXT = `
 
 export const EXPERIENCES = [
   {
-    year: "July 2023 – April 2024",
-    role: "C & Linux Content Developer",
-    company: "University of Alberta, Edmonton, Canada",
-    description: `Published 20 instructional videos and lab materials, contributing to course design for 600 students per semester.`,
-    technologies: ["C", "Linux", "GDB"]
-  },
-  {
     year: "Sept 2023 – Jan 2024",
     role: "Mobile Full Stack Developer",
     company: "Single Parent Life, Calgary, Canada",
     description: `Designed a Flutter app connecting single parents, integrated GCP services, and achieved a 97% performance score.`,
     technologies: ["Flutter", "Google Cloud Platform", "Cloud Firestore", "Cloud Functions", "Cloud Storage"]
   },
+  {
+    year: "July 2023 – December 2023",
+    role: "C & Linux Content Developer",
+    company: "University of Alberta, Edmonton, Canada",
+    description: `Published 20 instructional videos and lab materials, contributing to course design for 600 students per semester.`,
+    technologies: ["C", "C++", "Linux", "GDB"]
+  },
+  
   {
     year: "May 2022 – Sept 2022",
     role: "STEM Instructor and University Consultant",
